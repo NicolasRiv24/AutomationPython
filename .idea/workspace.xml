@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c53db56-8d7a-4f0c-afb2-4f6baec47ec4" name="Changes" comment="LoginLogoutTest.py finish">
+    <list default="true" id="0c53db56-8d7a-4f0c-afb2-4f6baec47ec4" name="Changes" comment="Adding commets">
+      <change afterPath="$PROJECT_DIR$/Locators/Locators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/BrowserSetup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/BrowserSetup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/WaitToRender.py" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/WaitToRender.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/LoginPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/LoginLogOut/LoginLogoutTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/LoginLogOut/LoginLogoutTest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,13 +184,22 @@
       <option name="project" value="LOCAL" />
       <updated>1703870917478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding commets">
+      <option name="closed" value="true" />
+      <created>1703874975857</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703874975857</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LoginPage.py finish and added" />
     <MESSAGE value="Login Page Browser and inventory page" />
     <MESSAGE value="LoginLogoutTest.py finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="LoginLogoutTest.py finish" />
+    <MESSAGE value="Adding commets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding commets" />
   </component>
 </project>

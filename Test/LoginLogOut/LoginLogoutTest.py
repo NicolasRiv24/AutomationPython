@@ -9,10 +9,11 @@ from selenium.webdriver.common.by import By
 import unittest
 from Pages.LoginPage import LoginPage
 from Resources.BrowserSetup import BrowserSetup
+from Locators.Locators import LoginPageLocators
 class LoginLogOutThirdOption(unittest.TestCase):
     def test_login_and_logout(self):
         # Can change "chrome" for "firefox" or "edge" in order to change the browser
-        driver = BrowserSetup.initialize_browser("edge")
+        driver = BrowserSetup.initialize_browser("chrome")
 
         # Pages
         login_page = LoginPage(driver)
